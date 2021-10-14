@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kishan Jani
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning JavaScriprt(React.js)
-- 📫 Contact at [krjani.axelor@gmail.com]
+- 📫 Contact at [k.jani@axelor.com]
 
 <!---
 kja-axelor/kja-axelor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
