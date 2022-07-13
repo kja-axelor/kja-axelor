@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kishan Jani
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning JavaScriprt(React.js)
+- 🌱 I’m currently learning JavaScript(React.js)
 - 📫 Contact at [k.jani@axelor.com]
 
 <!---
