@@ -4,6 +4,6 @@
 - 📫 Contact at [k.jani@axelor.com]
 
 <!---
-kja-axelor/kja-axelor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kja-axelor/Kishan Jani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
